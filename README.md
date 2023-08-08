@@ -96,13 +96,13 @@ This command will checkout appropriate SHA-1 for Flash-X, AMReX, and FlashKit, a
 Setting up a simulation is done in similar way by running setup command as,
 
 ```
-jobrunner setup simulation/PoolBoiling/Example2D
+jobrunner setup simulation/PoolBoiling/SingleBubble
 ```
 
 and then running it using,
 
 ```
-jobrunner submit simulation/PoolBoiling/Example2D
+jobrunner submit simulation/PoolBoiling/SingleBubble
 ```
 
 Make sure to edit Jobfiles as desired to change/update your schedular configuration.
