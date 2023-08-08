@@ -1,8 +1,8 @@
-# <p align="center"> Reproducibility Capsule for Multiphase Simulations using Flash-X </p>
+## Reproducibility Capsule for Multiphase Simulations using Flash-X
 
 A reproducibility archive of incompressible multiphase flow simulations for the following papers:
-- [https://arxiv.org/abs/2306.10174.pdf](https://arxiv.org/pdf/2306.10174.pdf)
-- [https://arxiv.org/pdf/2307.14623.pdf](https://arxiv.org/pdf/2307.14623.pdf)
+- [A Vortex Damping Outflow Forcing for Multiphase Flows with Sharp Interfacial Jumps](https://arxiv.org/pdf/2306.10174.pdf)
+- [BubbleML: A Multi-Physics Dataset and Benchmarks for Machine Learning](https://arxiv.org/pdf/2307.14623.pdf)
 
 The design of the lab notebook is derived from:
 - https://github.com/akashdhruv/Multiphase-Simulations
