@@ -59,7 +59,7 @@ $ tree Boiling-Simulations
 ├── environment.sh
 ├── sites
     ├── sedona
-        ├── Makefile.h
+        ├── Makefile.h.FlashX
         ├── modules.sh
 ├── software
     ├── Jobfile
@@ -68,7 +68,7 @@ $ tree Boiling-Simulations
     ├── setupFlashKit.sh
 ├── simulation
     ├── PoolBoiling
-        ├── Example2D
+        ├── SingleBubble
             ├── Jobfile
             ├── flashOptions.sh
             ├── flashBuild.sh
@@ -82,7 +82,7 @@ The directory tree is divided into three major components $\textemdash$ software
 
 The ``software/`` component provides scripts to install software packages with compatible configuration. 
 
-The ``simulation/`` component contains specific simulations as directory objects, with the ability to configure each of them with different flavors. As an example, ``simulation/PoolBoiling`` can be configured for 2D and 3D problems by creating sub-directories ``simulation/PoolBoiling/Example2D`` and ``simulation/PoolBoiling/Example3D`` with their respective options, Jobfiles, and commands.
+The ``simulation/`` component contains specific simulations as directory objects, with the ability to configure each of them with different flavors. As an example, ``simulation/PoolBoiling`` can be configured for single and multiple bubble problems by creating sub-directories ``simulation/PoolBoiling/SingleBubble`` and ``simulation/PoolBoiling/Gravity-FC72`` with their respective options, Jobfiles, and commands.
 
 The ``analysis/`` component is designed to setup data analysis and machine learning workflows and is currently a work in progress.
 
