@@ -1,7 +1,8 @@
-# <p align="center"> Archive for Outflow Forcing Study using Flash-X </p>
+# <p align="center"> Reproducibility Capsule for Multiphase Simulations using Flash-X </p>
 
-A lab notebook archive of outflow forcing study for the following paper: 
+A reproducibility archive of incompressible multiphase flow simulations for the following papers:
 - https://arxiv.org/abs/2306.10174
+- https://arxiv.org/pdf/2307.14623.pdf
 
 The design of the lab notebook is derived from:
 - https://github.com/akashdhruv/Multiphase-Simulations
