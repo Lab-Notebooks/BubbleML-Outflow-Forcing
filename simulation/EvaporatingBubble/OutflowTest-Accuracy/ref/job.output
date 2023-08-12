@@ -1,0 +1,12 @@
+-------------------------------------------------------------
+Execution Environment:
+PROJECT_HOME=/gpfs/alpine/ast136/proj-shared/adhruv/Outflow-Forcing-BubbleML
+SITE_HOME=/gpfs/alpine/ast136/proj-shared/adhruv/Outflow-Forcing-BubbleML/sites/summit
+MPI_HOME=/sw/summit/spack-envs/base/opt/linux-rhel8-ppc64le/gcc-9.3.0/spectrum-mpi-10.4.0.3-20210112-6depextb6p6ulrvmehgtbskbmcsyhtdi
+HDF5_HOME=/sw/summit/spack-envs/base/opt/linux-rhel8-ppc64le/gcc-9.3.0/hdf5-1.10.7-erpzjzv6dakrblzacmwiuyrgg54wawqa
+FLASHX_HOME=/gpfs/alpine/ast136/proj-shared/adhruv/Outflow-Forcing-BubbleML/software/Flash-X
+AMREX2D_HOME=/gpfs/alpine/ast136/proj-shared/adhruv/Outflow-Forcing-BubbleML/software/AMReX/install-summit/2D
+AMREX3D_HOME=/gpfs/alpine/ast136/proj-shared/adhruv/Outflow-Forcing-BubbleML/software/AMReX/install-summit/3D
+-------------------------------------------------------------
+Wrote parameter information to file flash.par
+Calculating resources for summit
