@@ -1,0 +1,15 @@
+# Site information
+Heater.numSites = 21
+
+# Stefan number and saturation temperature
+Parfile.mph_Stefan = 0.6243
+Parfile.mph_Tsat = 0.1702
+
+# Restart, checkpoint, and plotting options
+Parfile.nend = 10000000
+Parfile.tmax = 200.0
+Parfile.restart = ".false."
+Parfile.checkpointFileNumber = 0
+Parfile.checkpointFileIntervalTime = 5.0
+Parfile.plotFileNumber = 0
+Parfile.plotFileIntervalTime = 0.1
