@@ -1,2 +1,2 @@
-boxkit
-pyjobrunner
+boxkit==2023.6.7
+pyjobrunner==2023.8
