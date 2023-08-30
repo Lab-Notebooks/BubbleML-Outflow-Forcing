@@ -1,4 +1,7 @@
 # Bash script for `jobrunner` to install AMReX
+#
+# DEVNOTE- Incase the github clone fails use the SWHID archive:
+# https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/AMReX-Codes/amrex
 
 # Setup AMReX
 if [ "$AMReX_Enable" = true ]; then
