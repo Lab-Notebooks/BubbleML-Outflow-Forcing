@@ -131,4 +131,21 @@ flashkit create xdmf -b <begin_number> -e <end_number>
 
 The `<begin_number>` and `<end_number>` refer to the files containing the pattern `*_hdf5_plt_cnt_*`. The resulting `*.xmf` file is ParaView compatible.
 
-BoxKit is used to access raw simulation data in Python. Several IPython notebooks and scripts in the `analysis/` folder use it for post processing. 
+BoxKit is used to access raw simulation data in Python. Several IPython notebooks and scripts in the `analysis/` folder use it for post processing.
+
+## Citation
+
+```
+@software{akash_dhruv_2023_10211777,
+  author       = {Akash Dhruv and
+                  Sheikh Md Shakeel Hassan},
+  title        = {{Lab-Notebooks/Outflow-Forcing-BubbleML: zenodo 
+                   archive}},
+  month        = nov,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {zenodo},
+  doi          = {10.5281/zenodo.10211777},
+  url          = {https://doi.org/10.5281/zenodo.10211777}
+}
+```
